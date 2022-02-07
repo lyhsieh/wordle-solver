@@ -66,7 +66,7 @@ def update(word: str, res: str):
                 wordlist.remove(i_word)
             
     except:
-        stderr.write('Invalid input!\n')
+        stderr.write('Invalid result!\n')
         exit(-1)
     
 
@@ -74,14 +74,14 @@ def update(word: str, res: str):
 def run():
     print(info.__doc__)
     readfile()
-    print("""============================================
-If the result is GREEN, enter 0
-If the result is YELLOW, enter 1
-If the result is GRAY, enter 2
-Only a string with length = 5 and contains ONLY 0, 1, 2 is ACCEPTED!
-ex. Enter 12200 if the result is "yellow gray gray green green".
-============================================\n""")
-    _ = input('Ready to start? (Press ENTER to continue)')
+    print('========================================================================')
+    print('If the result is GREEN, enter 0')
+    print('If the result is YELLOW, enter 1')
+    print('If the result is GRAY, enter 2')
+    print('Only a string with length = 5 and contains ONLY 0, 1, 2 is ACCEPTED!')
+    print('ex. Enter 12200 if the result is "yellow gray gray green green".')
+    print('========================================================================')
+    input('\nReady to start? (Press ENTER to continue)')
     word = getword()
     # print(f'original len = {len(wordlist)}')
     print(f'Try to guess "{word}". What is the result? ', end = '')
