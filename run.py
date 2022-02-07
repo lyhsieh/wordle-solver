@@ -5,10 +5,10 @@ GREEN, YELLOW, GRAY = ('0', '1', '2')
 
 def info():
     """
-                        Wordle Game Solver
+                          Wordle Game Solver
                 https://www.powerlanguage.co.uk/wordle/
                  Created by Leo (Lin Yung Hsieh), 2022
-                        Any suggestion is welcome!
+                       Any suggestion is welcome!
     Check my code at https://github.com/LeoTheBestCoder/wordle-solver
     """
     return 
