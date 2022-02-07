@@ -59,8 +59,8 @@ def update(word: str, res: str):
                                 special_case = True
                         if not special_case:
                             invalid.append(w)
-                        else:
-                            print(f'{w} is a special case')
+                        # else:
+                        #     print(f'{w} is a special case')
 
             for i_word in invalid:
                 wordlist.remove(i_word)
