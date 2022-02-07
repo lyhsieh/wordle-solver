@@ -14,7 +14,6 @@ def info():
     return 
 
 def getword():
-    # global wordlist
     idx = rint(0, len(wordlist) - 1)
     return wordlist[idx]
 
