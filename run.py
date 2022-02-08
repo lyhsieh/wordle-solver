@@ -54,7 +54,7 @@ def update(word: str, res: str):
                     if word[i] in w:
                         special_case = False
                         for j in range(5):
-                            if i != j and word[i] == word[j] and res[j] == GREEN:
+                            if i != j and word[i] == word[j] and res[j] in [GREEN, YELLOW]:
                                 special_case = True
                         if not special_case:
                             invalid.append(w)
