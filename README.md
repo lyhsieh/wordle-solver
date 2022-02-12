@@ -21,7 +21,8 @@ python3 run.py
 ```
 It should look like this.
 ![](readme_img/1.png)
- Press ```ENTER``` to continue. 
+
+Press ```ENTER``` to continue. 
 
 > Later, if the result is `GREEN` (correct character + correct position), enter `0`. </br>
 > If the result is `YELLOW` (correct character + wrong position), enter `1`. </br>
