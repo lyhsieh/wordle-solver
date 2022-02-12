@@ -87,6 +87,8 @@ def run():
     readfile()
     showrule()
     word = getword()
+    while len(set(word)) != 5:
+        word = getword()
     print(f'Try to guess "{word}". What is the result? ', end = '')
     res = input()
     update(word, res)
