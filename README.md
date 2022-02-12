@@ -15,7 +15,7 @@ git clone https://github.com/LeoTheBestCoder/wordle-solver
 cd wordle-solver
 ```
 
-2. execute the python script **run.py** (Please ignore ```construct.py```)
+3. execute the python script **run.py** (Please ignore ```construct.py```)
 ```bash
 python3 run.py
 ```
@@ -33,8 +33,9 @@ Press ```ENTER``` to continue.
 > If the result isn't correctly entered, the program will be terminated right away. So, refer to the following example or demo video, and be extremely careful when entering the result. 
 
 
-It tells you to guess "sunny" as the first attempt, so enter `laxer` into the wordle game.
-![](readme_img/2.png#center)
+It tells you to guess "laxer" as the first attempt, so enter `laxer` into the wordle game.
+![](readme_img/2.png)
+<img src=readme_img/2.png width = 50%>
 
 ![](readme_img/3.png)
 
