@@ -4,6 +4,9 @@
 ## Environment Requirements
 * Python3 (Python2 is NOT accepted.)
 
+## Demo Video
+* [Link](https://youtu.be/_JfcOB2PsCU)
+
 ## Getting Started
 1. clone the repo
 ```bash
