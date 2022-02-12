@@ -36,24 +36,24 @@ Press ```ENTER``` to continue.
 It tells you to guess "laxer" as the first attempt, so enter `laxer` into the wordle game.
 
 <img src=readme_img/2.png>
-<img src=readme_img/3.png width = 80%>
+<img src=readme_img/3.png width = 70%>
 
 
 
 The result is **`YELLOW YELLOW GRAY GRAY YELLOW`**, so enter **`11221`** in the terminal. Then, go back to website and guess next word, `gnarl`.
 
 <img src=readme_img/4.png>
-<img src=readme_img/5.png width = 80%>
+<img src=readme_img/5.png width = 70%>
 
 The result is **`GRAY GRAY YELLOW GREEN YELLOW`**, so enter **`22101`** in the terminal. Then, go back to website and guess next word, `flora`.
 
 <img src=readme_img/6.png>
-<img src=readme_img/7.png width = 80%>
+<img src=readme_img/7.png width = 70%>
 
 The result is **`GRAY GREEN GRAY GREEN GREEN`**, so enter **`20200`** in the terminal. Then, go back to website and guess next word, `ultra`.
 
 <img src=readme_img/8.png>
-<img src=readme_img/9.png width = 80%>
+<img src=readme_img/9.png width = 70%>
 
 We got the correct answer!! Since the result is all **`GREEN`**, so enter **`00000`** in the terminal and the program will congratulate you!
 
