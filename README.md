@@ -35,7 +35,7 @@ Press ```ENTER``` to continue.
 
 It tells you to guess "laxer" as the first attempt, so enter `laxer` into the wordle game.
 ![](readme_img/2.png)
-<img src=readme_img/2.png width = 50%>
+<img src=readme_img/3.png width = 80%>
 
 ![](readme_img/3.png)
 
