@@ -33,7 +33,7 @@ Press ```ENTER``` to continue.
 
 
 > **CAUTION!!!** </br>
-> If the result isn't correctly entered, the program will be terminated right away. So, refer to the following example or demo video, and be extremely careful when entering the result. 
+> If the result isn't correctly entered, the program will be terminated right away. So, refer to the following example or [demo video](https://youtu.be/_JfcOB2PsCU), and be extremely careful when entering the result. 
 
 
 It tells you to guess "laxer" as the first attempt, so enter `laxer` into the wordle game.
